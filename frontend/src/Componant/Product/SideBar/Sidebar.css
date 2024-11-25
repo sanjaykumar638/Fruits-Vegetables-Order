@@ -1,0 +1,37 @@
+#Sidebar1 {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#Sidebar11 {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#Sidebar22 {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px;
+  background-color: #e0ffe0;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+#logo1 {
+  margin-right: 10px;
+  color: #333;
+}
+
+#SidbarHead {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}

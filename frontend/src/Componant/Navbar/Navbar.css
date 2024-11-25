@@ -1,0 +1,22 @@
+
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f8f9fa;
+}
+
+.navbar-logo img {
+  height: 60px;
+  cursor: pointer;
+}
+
+.navbar-location,
+.navbar-search,
+.navbar-cart,
+.navbar-credit,
+.navbar-auth {
+  margin-left: 15px;
+}
